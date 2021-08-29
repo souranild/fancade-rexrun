@@ -4,7 +4,7 @@
 
 [![Rex Run](https://user-images.githubusercontent.com/42074408/131246328-e7b66261-4471-4530-9e22-36be2990bed5.png)](https://fancade.page.link/1D59)
 
-
+Rex Run is completely editable. All coding is done in Fancade's Visual Programming. Press Edit to edit the codes yourself. 
 
 https://user-images.githubusercontent.com/42074408/131246402-d6d207dc-d167-46ea-8863-8c2917d51adb.mp4
 
@@ -14,6 +14,9 @@ https://user-images.githubusercontent.com/42074408/131246402-d6d207dc-d167-46ea-
 [![PLay](https://user-images.githubusercontent.com/42074408/131246544-c67264fb-bcbf-41e5-b409-9caaa6df9ca1.png)](https://fancade.page.link/1D59)
 
 
+![Webp net-resizeimage(4)](https://user-images.githubusercontent.com/42074408/131246908-b072213e-36fc-4a02-bf96-30f04d248eaf.jpg)
+![Webp net-resizeimage(3)](https://user-images.githubusercontent.com/42074408/131246910-74b5b539-5859-4280-aa87-acc0992945fb.jpg)
+![Webp net-resizeimage(2)](https://user-images.githubusercontent.com/42074408/131246913-0af703b0-1bdc-4df8-a10f-4b911621dd77.jpg)
+![Webp net-resizeimage](https://user-images.githubusercontent.com/42074408/131246917-dcda9596-b8f0-4567-8e22-cef39d8fcec2.jpg)
 
-![image](https://user-images.githubusercontent.com/42074408/131246634-e9277f82-874e-4678-a83f-9ea269aeaf3c.png) ![image](https://user-images.githubusercontent.com/42074408/131246637-81cb0d3d-1f8c-4c41-a52c-99e6a1f4da51.png) ![image](https://user-images.githubusercontent.com/42074408/131246638-c456f36d-92a8-41ca-8a3e-a84c289a709a.png) ![image](https://user-images.githubusercontent.com/42074408/131246639-4e24a901-af60-4e13-a48b-a85e9d4ebd37.png) ![image](https://user-images.githubusercontent.com/42074408/131246643-25f51420-dee7-4981-a50f-e85e0e2ec9f7.png)
 
